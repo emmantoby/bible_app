@@ -15,7 +15,7 @@ Simply reply to the word of God prompt and you will be loaded with the Bible cha
 
 ### **Technologies**
 
-javascript
+Javascript
 
 ## **License**
 
